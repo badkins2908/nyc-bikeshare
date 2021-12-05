@@ -15,9 +15,9 @@ The results of the analysis and visualizations are shown below:
 | ------------ | ------------- |
 | <img src="Resources/Popular Starting Locations.png" width="500" height="400"> | <img src="Resources/Popular Ending Locations.png" width="400" height="400">|
 
-| Start Times by User | Start Times by Gender |
+| Start Time by User | Start Time by Gender |
 | ------------ | ------------- |
-| <img src="Resources/Start Times by User Type.png" width="500" height="400"> | <img src="Resources/Start Times by Gender.png" width="400" height="400">|
+| <img src="Resources/Start Time by User Type.png" width="500" height="400"> | <img src="Resources/Start Time by Gender.png" width="400" height="400">|
 
 ![Trips per Weekday by Gender](https://github.com/caseychen3605/bikesharing/blob/main/Resources/Trips%20per%20Weekday%20by%20Gender.png)
 
