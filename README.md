@@ -11,11 +11,13 @@ The purpose of this analysis was to create a proposal for investors to support a
 
 ## Results
 The results of the analysis and visualizations are shown below:
-| Starting Points | Ending Points |
+| Starting Locations | Ending Locations |
 | ------------ | ------------- |
 | <img src="Resources/Popular Starting Locations.png" width="500" height="400"> | <img src="Resources/Popular Ending Locations.png" width="400" height="400">|
 
-![Trips per Hour by Weekday](https://github.com/caseychen3605/bikesharing/blob/main/Resources/Trips%20per%20Hour%20by%20Weekday.png)
+| Start Times by User | Start Times by Gender |
+| ------------ | ------------- |
+| <img src="Resources/Start Times by User Type.png" width="500" height="400"> | <img src="Resources/Start Times by Gender.png" width="400" height="400">|
 
 ![Trips per Weekday by Gender](https://github.com/caseychen3605/bikesharing/blob/main/Resources/Trips%20per%20Weekday%20by%20Gender.png)
 
