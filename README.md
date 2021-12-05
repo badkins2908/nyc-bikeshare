@@ -1,6 +1,6 @@
 # New York City Bike Share Analysis
 
-To view the dashboard on Tableau: [NYC Citi Bike-Sharing Analysis Dashboard](https://public.tableau.com/views/NyCityBikeData/NYCityBikeData?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+To view the dashboard on Tableau: [New York City Bike Share Analysis Dashboard](https://public.tableau.com/views/NyCityBikeData/NYCityBikeData?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Overview of Analysis
 The purpose of this analysis was to create a proposal for investors to support a bike-sharing program in Des Moines, Iowa. The investors wanted to see an analysis of bike share data within New York City. utilizing New York City bike share data, a dashboard was created to visualize average biking durations trends and the relationships between gender and popular biking times. Specifically, this set of visualizations included:
