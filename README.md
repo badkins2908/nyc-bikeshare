@@ -15,15 +15,15 @@ The results of the analysis and visualizations are shown below:
 | ------------ | ------------- |
 | <img src="Resources/Popular Starting Locations.png" width="500" height="400"> | <img src="Resources/Popular Ending Locations.png" width="400" height="400">|
 
+<img src="Resources/Popular Start Times.png" width="500" height="400">
+
 | Start Time by User | Start Time by Gender |
 | ------------ | ------------- |
 | <img src="Resources/Start Time by User Type.png" width="500" height="400"> | <img src="Resources/Start Time by Gender.png" width="400" height="400">|
 
-![Trips per Weekday by Gender](https://github.com/caseychen3605/bikesharing/blob/main/Resources/Trips%20per%20Weekday%20by%20Gender.png)
-
-![Checkout Times by Users](https://github.com/caseychen3605/bikesharing/blob/main/Resources/Checkout%20Times%20by%20Users.png)
-
-![Checkout Times by Gender](https://github.com/caseychen3605/bikesharing/blob/main/Resources/Checkout%20Times%20by%20Gender.png)
+| Trip Duration by User | Trip Duration by Gender |
+| ------------ | ------------- |
+| <img src="Resources/Trip Duration by User Type.png" width="500" height="400"> | <img src="Resources/Trip Duration by Gender.png" width="400" height="400">|
 
 ## Summary
 First off, it is important to note that Des Moines, Iowa and New York City are very different cities, both in city layout, popularity for tourist destination, as well as overall workforce population. Therefore, it is hard to utilize an analysis on New York City, to attempt to persuade investors on implementing this bike share program in a non-comparable location. With that being said, one advantage Des Moines does have, over New York, is the lack of a metro system. This may increase the need for easy, fast, and reliable transportation around the downtown area. 
